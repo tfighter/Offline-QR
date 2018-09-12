@@ -1,2 +1,2 @@
-# Offline-QR
-A simple QR code scanner/generator app that can run completely offline
+# Offline QR
+Given the scarcity of a simple QR code scanner/generator app that can run completely offline, I will now (attempt to) present to you a tool to transfer/receive data between your (presumedly offline) chromebook and (not necessarily offline) smart phone without a need for both devices to be online. It's so crazy to think there're only strictly QR reader/generator offline apps that can't do both. This is also my first time writing a Chrome App so please [report any bugs/issues](https://github.com/tfighter/Offline-QR/issues) to this github repo if you see any. 
